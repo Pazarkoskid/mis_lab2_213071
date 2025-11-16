@@ -137,7 +137,7 @@ class _MealDetailScreenState extends State<MealDetailScreen> {
                   label: const Text('Open YouTube'),
                   style: ElevatedButton.styleFrom(
                     backgroundColor: Colors.greenAccent.shade400,
-                    foregroundColor: Colors.white, // keep button text white
+                    foregroundColor: Colors.white,
                     padding: const EdgeInsets.symmetric(
                         vertical: 12, horizontal: 20),
                     textStyle: const TextStyle(

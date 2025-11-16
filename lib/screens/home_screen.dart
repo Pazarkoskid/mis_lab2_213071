@@ -92,24 +92,24 @@ class _HomeScreenState extends State<HomeScreen> {
             padding: const EdgeInsets.all(8.0),
             child: TextField(
               onChanged: _onSearch,
-              style: TextStyle(color: Colors.grey[800]), // text color gray
+              style: TextStyle(color: Colors.grey[800]),
               decoration: InputDecoration(
                 hintText: 'Пребарај категории...',
-                hintStyle: TextStyle(color: Colors.grey[500]), // hint text gray
+                hintStyle: TextStyle(color: Colors.grey[500]),
                 prefixIcon: const Icon(Icons.search, color: Colors.grey),
                 filled: true,
-                fillColor: Colors.white, // white background
+                fillColor: Colors.white,
                 border: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(8),
-                  borderSide: BorderSide(color: Colors.grey), // gray border
+                  borderSide: BorderSide(color: Colors.grey),
                 ),
                 enabledBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(8),
-                  borderSide: BorderSide(color: Colors.grey), // gray border when not focused
+                  borderSide: BorderSide(color: Colors.grey),
                 ),
                 focusedBorder: OutlineInputBorder(
                   borderRadius: BorderRadius.circular(8),
-                  borderSide: BorderSide(color: Colors.grey[700]!), // darker gray border when focused
+                  borderSide: BorderSide(color: Colors.grey[700]!),
                 ),
               ),
             ),
