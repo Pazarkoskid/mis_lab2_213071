@@ -1,16 +1,21 @@
-# untitled1
+### Lab 1 - 213071
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
+### HomePage
+![Screenshot 1](home.png)
 
-This project is a starting point for a Flutter application.
+### HomePage - Search by Categories 
+![Screenshot 2](home2.png)
 
-A few resources to get you started if this is your first Flutter project:
+### CategoryPage
+![Screenshot 3](category.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### CategoryPage - Search food
+![Screenshot 3](category2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### RecipePage
+![Screenshot 3](recept.png)
+
+### RecipePage 2
+![Screenshot 3](recept2.png)
